@@ -9,7 +9,7 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/OgtuPGPgAUk))
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](Flying.png)
+![screenshot](flying.png)
 
 Raw Image:-
 ![screenshot](flying-high-4k-hv-3840x2160.jpg)
